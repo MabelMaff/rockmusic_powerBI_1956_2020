@@ -79,3 +79,87 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarme
 
 - **LinkedIn**: [Mabel Martinez Rodriguez](https://www.linkedin.com/in/mabelmr)
 
+Aquí tienes el README en inglés:
+
+---
+
+# **ROCK MUSIC ANALYSIS PROJECT** 🎸
+
+## **Exploring the History of Rock through Data and Technology**
+### **Project Participants** 📝
+
+🎵 Patricia González Gruber (www.linkedin.com/in/patricia-gonzalez-gruber/)
+
+🎵 Mábel Martínez Rodríguez (www.linkedin.com/in/mabelmr)
+
+## **1. Summary**
+Our project focuses on analyzing a dataset of rock music songs from 1956 to 2020. The goal is to identify trends over the decades, analyze the evolution of the genre, and highlight the most influential songs and artists. Additionally, we created an interactive dashboard in PowerBI to effectively visualize our findings.
+
+![Project Image](https://github.com/MabelMaff/rockmusic_powerBI_1956_2020/blob/main/imagen_proyecto.jpg)
+
+## **Project Phases** 📊
+
+### **Phase 1: Data Extraction and Cleaning** 🎶
+
+In this phase, data was extracted from various sources and cleaned to ensure the quality and consistency of the dataset. The extracted information includes details such as:
+
+- Release year.
+- Artist.
+- Song title.
+- Song duration.
+- Genre.
+
+The information was stored in a DataFrame for further analysis.
+
+### **Phase 2: Exploratory Data Analysis (EDA)** 📈
+
+Various exploratory data analysis techniques were performed to better understand the dataset. The tasks included:
+
+- Analysis of the temporal distribution of songs.
+- Identification of the most prolific artists.
+- Analysis of the average duration of songs by decade.
+- Distribution of subgenres within rock.
+
+### **Phase 3: Data Visualization with PowerBI** 📊
+
+In this phase, PowerBI was used to create an interactive dashboard to visualize the results of the data analysis. Some of the visualizations included in the dashboard are:
+
+- Timeline of song releases.
+- Bar charts of the most influential artists.
+- Heat maps showing the popularity of subgenres over the decades.
+- Scatter plots of song durations.
+
+### **Phase 4: Database Creation** 💾
+
+To organize and store the information in a structured manner, a database was designed and created using SQL. The database includes tables for:
+
+- Songs.
+- Artists.
+- Albums.
+- Genres.
+
+### **Phase 5: Data Insertion into the Database** 🛠️
+
+After designing the database, all the cleaned and structured data was inserted into the corresponding tables.
+
+### **Phase 6: Querying the Database for Information** 🔍
+
+With the data stored in the database, SQL queries were performed to retrieve specific information. Some of the queries include:
+
+- Most popular songs by decade.
+- Artists with the highest number of songs released.
+- Most influential albums.
+- Evolution of song duration over time.
+
+---
+
+## **Interactive Dashboard**
+
+You can explore our interactive dashboard in PowerBI [here](https://github.com/MabelMaff/rockmusic_powerBI_1956_2020/blob/main/Promo%20H-Pareja%206%20Historia%20del%20Rock.pbix).
+
+## **Contact**
+
+If you have any questions or need more information, feel free to contact me.
+
+- **LinkedIn**: [Mabel Martinez Rodriguez](https://www.linkedin.com/in/mabelmr)
+
