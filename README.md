@@ -70,7 +70,7 @@ Con los datos almacenados en la base de datos, se realizaron consultas SQL para 
 
 ## **Dashboard Interactivo**
 
-Puedes explorar nuestro dashboard interactivo en PowerBI [aquí](URL_del_dashboard).
+Puedes explorar nuestro dashboard interactivo en PowerBI [aquí]([URL_del_dashboard](https://github.com/MabelMaff/rockmusic_powerBI_1956_2020/blob/main/Promo%20H-Pareja%206%20Historia%20del%20Rock.pbix)).
 
 
 ## **Contacto**
