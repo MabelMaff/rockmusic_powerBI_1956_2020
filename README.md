@@ -10,7 +10,7 @@
 ## **1. Resumen**
 Nuestro proyecto se centra en el análisis de un dataset de canciones de música rock desde 1956 hasta 2020. El objetivo es identificar tendencias a lo largo de las décadas, analizar la evolución del género y destacar las canciones y artistas más influyentes. Además, hemos creado un dashboard interactivo en PowerBI para visualizar nuestros hallazgos de manera efectiva.
 
-![Imagen del Proyecto](ruta/a/tu/imagen.png)
+![Imagen del Proyecto](https://github.com/MabelMaff/rockmusic_powerBI_1956_2020/blob/main/imagen_proyecto.jpg)
 
 ## **Fases del Proyecto** 📊
 
